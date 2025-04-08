@@ -1,3 +1,5 @@
+package app;
+
 public class Person {
 
     private final String firstName;

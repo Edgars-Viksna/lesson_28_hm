@@ -1,4 +1,7 @@
-import java.util.LinkedList;
+package app.MyLists;
+
+import app.Node;
+import app.Person;
 
 public class MyLinkedList implements MyLists {
 

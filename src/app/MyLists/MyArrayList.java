@@ -1,3 +1,7 @@
+package app.MyLists;
+
+import app.Person;
+
 import java.util.Arrays;
 
 public class MyArrayList implements MyLists {

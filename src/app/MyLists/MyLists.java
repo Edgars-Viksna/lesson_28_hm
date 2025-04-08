@@ -1,4 +1,6 @@
-import java.util.List;
+package app.MyLists;
+
+import app.Person;
 
 public interface MyLists {
 

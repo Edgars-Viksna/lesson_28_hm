@@ -1,5 +1,8 @@
-import java.util.ArrayList;
-import java.util.List;
+package app;
+
+import app.MyLists.MyArrayList;
+import app.MyLists.MyLinkedList;
+import app.MyLists.MyLists;
 
 public class Main {
     public static void main(String[] args) {

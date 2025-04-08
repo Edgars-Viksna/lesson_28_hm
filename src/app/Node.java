@@ -1,3 +1,5 @@
+package app;
+
 public class Node {
 
     private Person person;
