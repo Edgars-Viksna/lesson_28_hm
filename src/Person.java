@@ -14,6 +14,6 @@ public class Person {
     public String toString() {
         return "First name: " + firstName +
                 ",     Last name: " + lastname +
-                ",    Year Of Birth: " + yearOfBirth ;
+                ",    Year Of Birth: " + yearOfBirth;
     }
 }
